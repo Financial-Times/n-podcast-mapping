@@ -1,0 +1,493 @@
+{
+	"ft-alphachat": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Alphachat",
+				"MzU1ZGZlNmYtNjYwOS00ZmMzLWI2NmYtZWRiNWZiZjNiMmY4-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Markets",
+				"NzE=-U2VjdGlvbnM="
+			],
+			[
+				"brand",
+				"FT Alphaville",
+				"ZDkyYTVhMzYtYjAyOS00OWI1LWI5ZTgtM2QyYTIzYjk4Y2Jj-QnJhbmRz"
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id448302257",
+			"http://www.stitcher.com/podcast/financial-times/ft-alphachat",
+			"http://audioboom.com/channel/ftalphachat",
+			"https://soundcloud.com/ft-alphachat",
+			"https://overcast.fm/itunes448302257"
+		]
+	},
+	"ft-arts": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Arts podcast",
+				"NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Arts",
+				"MTQ5-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"Life & Arts",
+				"MTQ4-U2VjdGlvbnM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id402479253",
+			"http://www.stitcher.com/podcast/financial-times/ft-arts",
+			"http://audioboom.com/channel/FTarts",
+			"https://soundcloud.com/ft-arts",
+			"https://overcast.fm/itunes402479253"
+		]
+	},
+	"ft-banking-weekly": {
+		"tags": [
+			[
+				"primarySection",
+				"Banking Weekly podcast",
+				"OTVlNGEyOTMtNjc1OC00Njk4LWFhZmEtMGY0ZTJmNmM2ODIz-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Banks",
+				"NTg=-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"Companies",
+				"Mjk=-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"Financial Services",
+				"NjE=-U2VjdGlvbnM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id374270310",
+			"http://www.stitcher.com/podcast/financial-times/banking-weekly",
+			"http://audioboom.com/channel/bankingweekly",
+			"https://soundcloud.com/ft-banking-weekly",
+			"https://overcast.fm/itunes374270310"
+		]
+	},
+	"ft-big-read": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Big Read podcast",
+				"MmM3N2VjNjktNDY4My00ZmQ4LWFkYjMtZjc5YTIxMzY2NzNj-QnJhbmRz"
+			],
+			[
+				"sections",
+				"The Big Read",
+				"MTE4-U2VjdGlvbnM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id878656889",
+			"http://www.stitcher.com/podcast/financial-times/ft-analysis",
+			"http://audioboom.com/channel/ftbigread",
+			"https://soundcloud.com/ft-analysis",
+			"https://overcast.fm/itunes878656889"
+		]
+	},
+	"ft-connected-business": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Connected Business podcast",
+				"ZGQ4MjAyZjQtYTg4ZS00NmE5LTk0YmYtZTJlODY4N2Q2N2Fh-QnJhbmRz"
+			],
+			[
+				"specialReports",
+				"The Connected Business",
+				"MzA2ODFhMTAtYjNmNy00YTY2LTg3NjAtZmEzNWFmYmFkNGEy-U3BlY2lhbFJlcG9ydHM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id497374200",
+			"http://www.stitcher.com/podcast/financial-times/ft-connected-business"
+		]
+	},
+	"ft-copenhagen-summit": {
+		"tags": [
+			[
+				"primarySection",
+				"Copenhagen Summit podcast",
+				"MTBhMDBjN2MtZjliOC00NmYzLTljMWUtNDE1Y2YzMDFiZjFh-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Science & Environment",
+				"NTQ=-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-digital-business": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Digital Business with Peter Whitehead",
+				"ZTAyM2YyY2UtYWFmNS00YzBkLWJiNmUtNzM3NzBiNDM1ZDJh-QnJhbmRz"
+			],
+			[
+				"specialReports",
+				"The Connected Business",
+				"MzA2ODFhMTAtYjNmNy00YTY2LTg3NjAtZmEzNWFmYmFkNGEy-U3BlY2lhbFJlcG9ydHM="
+			]
+		],
+		"links": []
+	},
+	"ft-digital-business-mi": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Digital Business: Managing Intelligence",
+				"YjI0MjkxMmUtZDFhOS00MTg2LTk1YzUtYmEyNzRjZWJlMWIw-QnJhbmRz"
+			],
+			[
+				"specialReports",
+				"The Connected Business",
+				"MzA2ODFhMTAtYjNmNy00YTY2LTg3NjAtZmEzNWFmYmFkNGEy-U3BlY2lhbFJlcG9ydHM="
+			]
+		],
+		"links": []
+	},
+	"ft-emerging-markets-weekly": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Emerging Markets Weekly podcast",
+				"ZTIzMjE1NDYtNTBkZi00NWM1LTg2MjQtODA3YjQ2YmYyZjdl-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Markets",
+				"NzE=-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"Emerging Markets",
+				"MTA2-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-energy-weekly": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Energy Weekly podcast",
+				"Nzk0MWJmNTMtZDczNy00NjEyLTgyMmMtNGE1MGU1MTRlNThh-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Energy",
+				"MzA=-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"Companies",
+				"Mjk=-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-hard-currency": {
+		"tags": [
+			[
+				"primarySection",
+				"Hard Currency podcast",
+				"NTI5MjBiOTktODU2MS00ODNlLThmZTctNjNlMzI0NDMwNjkx-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Markets",
+				"NzE=-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"Currencies",
+				"MTAz-U2VjdGlvbnM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id527135392",
+			"http://www.stitcher.com/podcast/financial-times/hard-currency",
+			"http://audioboom.com/channel/hardcurrency",
+			"https://soundcloud.com/ft-hard-currency",
+			"https://overcast.fm/itunes527135392"
+		]
+	},
+	"ft-house-and-home": {
+		"tags": [
+			[
+				"primarySection",
+				"FT House and Home podcast",
+				"MTUxMDlhMTQtMTVkOS00Y2VkLTg1MjQtZjhlOTQyNjZhOWRh-QnJhbmRz"
+			],
+			[
+				"sections",
+				"House & Home",
+				"MTU3-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-investigations": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Investigations podcast",
+				"NzU1Nzk2YzMtY2NjMy00YWRkLWIxMWMtMDE2Mjc4NTY1ZTVm-QnJhbmRz"
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id1012901367",
+			"http://www.stitcher.com/podcast/financial-times/ft-investigations",
+			"http://audioboom.com/channel/ftinvestigations",
+			"https://soundcloud.com/ft-investigations",
+			"https://overcast.fm/itunes1012901367"
+		]
+	},
+	"ft-lucy-kellaway": {
+		"tags": [
+			[
+				"primarySection",
+				"Listen to Lucy",
+				"NzlmNzE4MmYtZDJkNC00MzllLWE5NzctOTUxZjU3MWMzYTUz-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Comment",
+				"MTE5-U2VjdGlvbnM="
+			],
+			[
+				"authors",
+				"Lucy Kellaway",
+				"Q0ItMDAwMDkyNg==-QXV0aG9ycw=="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id201455746",
+			"http://www.stitcher.com/podcast/financial-times/listen-to-lucy",
+			"http://audioboom.com/channel/listentolucy",
+			"https://soundcloud.com/ft-listen-to-lucy-kellaway",
+			"https://overcast.fm/itunes201455746"
+		]
+	},
+	"ft-management": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Management podcast",
+				"MzliZjJjYWYtMTM4ZC00OGI3LTllYzMtOWQwMTIyMTQ4ZDJi-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Management",
+				"MTI1-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-martin-wolf": {
+		"tags": [
+			[
+				"primarySection",
+				"Martin Wolf podcast",
+				"M2Q2NWU0NGEtNjkyMC00YTYzLWI5Y2ItNDVjZjg1OWJiOTQ4-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Comment",
+				"MTE5-U2VjdGlvbnM="
+			],
+			[
+				"authors",
+				"Martin Wolf",
+				"Q0ItMDAwMDkwMA==-QXV0aG9ycw=="
+			]
+		],
+		"links": []
+	},
+	"ft-money-show": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Money Show",
+				"QnJhbmRzXzU0-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Personal Finance",
+				"MTQw-U2VjdGlvbnM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id287031335",
+			"http://www.stitcher.com/podcast/financial-times/ft-money-show-5974",
+			"http://audioboom.com/channel/ftmoneyshow",
+			"https://soundcloud.com/ft-money-show",
+			"https://overcast.fm/itunes287031335"
+		]
+	},
+	"ft-news": {
+		"tags": [
+			[
+				"primarySection",
+				"FT News podcast",
+				"NTZlM2FhN2YtYWJlNC00ZGU0LTk1NzMtMmE3Y2Q5MjVhNGJm-QnJhbmRz"
+			],
+			[
+				"sections",
+				"World",
+				"MQ==-U2VjdGlvbnM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id379613801",
+			"http://www.stitcher.com/podcast/financial-times/ft-news",
+			"http://audioboom.com/channel/ftnews",
+			"https://soundcloud.com/ft-news",
+			"https://overcast.fm/itunes379613801"
+		]
+	},
+	"ft-robin-robertson": {
+		"tags": [
+			[
+				"primarySection",
+				"Robin Robertson podcast",
+				"NTYwYzZjYjAtMjBmOC00NDAzLTkzNzEtZDVkY2MyMzIyNTZi-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Life & Arts",
+				"MTQ4-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-science": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Science podcast",
+				"ZGIwZGQ1N2YtN2FkOC00MWZiLTllNjgtN2Y3NWU1YzgxMWI2-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Science & Environment",
+				"NTQ=-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-stephen-fry-lady-gaga": {
+		"tags": [
+			[
+				"primarySection",
+				"Stephen Fry and Lady Gaga podcast",
+				"YjY2MDQ4NWMtZDMyMS00MWYwLWI4ZDYtYWUwNWIzNmMyOGRl-QnJhbmRz"
+			],
+			[
+				"sections",
+				"Life & Arts",
+				"MTQ4-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"FT Magazine",
+				"NzE=-U2VjdGlvbnM="
+			]
+		],
+		"links": []
+	},
+	"ft-uk-general-election-2010": {
+		"tags": [
+			[
+				"primarySection",
+				"FT UK General Election 2010 podcast",
+				"MGRjYWRlNTktYmFjOS00YjYzLWIxZjUtZTBkN2IxZGFhY2Nl-QnJhbmRz"
+			],
+			[
+				"sections",
+				"UK",
+				"Ng==-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"UK Politics & Policy",
+				"OA==-U2VjdGlvbnM="
+			],
+			[
+				"topics",
+				"General Election",
+				"OTAzZjM5YTgtZGU1Ny00MjU5LTgxMmEtZGIzMGY4YTg5NDJi-VG9waWNz"
+			]
+		],
+		"links": []
+	},
+	"ft-uk-general-election-2015": {
+		"tags": [
+			[
+				"primarySection",
+				"FT UK General Election 2015 podcast",
+				"Y2MyOTBmOGQtYWQyMi00NjVhLTkxNmMtNTkwOGY1ZWQwM2Mw-QnJhbmRz"
+			],
+			[
+				"sections",
+				"UK",
+				"Ng==-U2VjdGlvbnM="
+			],
+			[
+				"sections",
+				"UK Politics & Policy",
+				"OA==-U2VjdGlvbnM="
+			],
+			[
+				"topics",
+				"General Election",
+				"OTAzZjM5YTgtZGU1Ny00MjU5LTgxMmEtZGIzMGY4YTg5NDJi-VG9waWNz"
+			]
+		],
+		"links": [
+			"http://www.stitcher.com/podcast/financial-times/UK-election-2015",
+			"http://audioboom.com/channel/ftukgeneralelection2015"
+		]
+	},
+	"ft-world-weekly": {
+		"tags": [
+			[
+				"primarySection",
+				"FT World Weekly podcast",
+				"OTdiZGQ4ODItZWU0Yi00MjU5LTkyZTAtNDA3ZGU1ZmFlY2Rh-QnJhbmRz"
+			],
+			[
+				"sections",
+				"World",
+				"MQ==-U2VjdGlvbnM="
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/id377218713",
+			"http://www.stitcher.com/podcast/financial-times/world-weekly-with-gideon-rachman",
+			"http://audioboom.com/channel/worldweeklywithgideonrachman",
+			"https://soundcloud.com/ft-world-weeky",
+			"https://overcast.fm/itunes377218713"
+		]
+	}
+}
