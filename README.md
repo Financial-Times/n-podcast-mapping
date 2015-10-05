@@ -32,4 +32,9 @@ console.log(primaryTags); // [ { id: "…", name: "…", taxonomy: "…" }, {…
 var uniqueTags = podcastMapping.uniqueTags();
 
 console.log(uniqueTags); // [ { id: "…", name: "…", taxonomy: "…" }, {…} ]
+
+// check if a tag ID is a type of podcast
+var tagId = 'NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz';
+
+console.log(podcastMapping.isThisTagAPodcast(tagId)); // true
 ```

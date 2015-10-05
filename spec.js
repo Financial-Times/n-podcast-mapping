@@ -121,4 +121,22 @@ describe('Podcast Mapping', function() {
 
 	});
 
+	describe('.isThisTagAPodcast()', function() {
+
+		it('returns true if the given tag ID is a primary tag', function() {
+			var result = subject.isThisTagAPodcast('NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz');
+
+			assert.ok(typeof result, 'boolean');
+			assert.equal(result, true);
+		});
+
+		it('returns false if the given tag ID is not a primary tag', function() {
+			var result = subject.isThisTagAPodcast('MTQ4-U2VjdGlvbnM=');
+
+			assert.ok(typeof result, 'boolean');
+			assert.equal(result, false);
+		});
+
+	});
+
 });
