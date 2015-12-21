@@ -61,5 +61,5 @@ module.exports.linksFor = function(slug) {
 
 module.exports.isThisTagAPodcast = function(tagId) {
 	var podcastTags = this.primaryTags();
-	return Boolean(podcastTags.find(tag => tag.id === tagId));
+	return podcastTags.some(tag => tag.id === tagId);
 };
