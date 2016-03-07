@@ -489,5 +489,18 @@
 			"https://soundcloud.com/ft-world-weeky",
 			"https://overcast.fm/itunes377218713"
 		]
+	},
+	"ft-moneypenny": {
+		"tags": [
+			[
+				"primarySection",
+				"Mrs Moneypenny podcast",
+				"YTJkZmM2ZmQtM2JjNi00YzNiLTlkN2EtMDA2N2FhZjU4M2Ew-QnJhbmRz"
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/ft-irreverent-questions-mrs/id1090589306?mt=2",
+			"http://www.stitcher.com/podcast/financial-times/ft-irreverent-questions-with-mrs-moneypenny"
+		]
 	}
 }
