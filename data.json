@@ -492,5 +492,18 @@
 			"https://itunes.apple.com/gb/podcast/ft-irreverent-questions-mrs/id1090589306?mt=2",
 			"http://www.stitcher.com/podcast/financial-times/ft-irreverent-questions-with-mrs-moneypenny"
 		]
+	},
+	"ft-startup-stories": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Start-Up Stories",
+				"YjFhMWYzMjQtZDIyNC00MmQ3LWI1M2MtYjBjYjAyNTczMWQz-QnJhbmRzz"
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/us/podcast/id1049828816",
+			"http://www.stitcher.com/podcast/ft-startup-stories"
+		]
 	}
 }
