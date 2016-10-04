@@ -38,3 +38,5 @@ var tagId = 'NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz';
 
 console.log(podcastMapping.isThisTagAPodcast(tagId)); // true
 ```
+
+**This component needs releasing manually**
