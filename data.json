@@ -493,6 +493,19 @@
 			"http://www.stitcher.com/podcast/financial-times/ft-irreverent-questions-with-mrs-moneypenny"
 		]
 	},
+	"ft-tech-tonic": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Tech Tonic Podcast",
+				"NTE3MzdkYjEtYTI4YS00MzExLWJiZDUtNDk1YWRjNzY5ZmEz-QnJhbmRz"
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/us/podcast/id1169101860",
+			"http://www.stitcher.com/podcast/financial-times/ft-tech-tonic"
+		]
+	},
 	"ft-startup-stories": {
 		"tags": [
 			[
