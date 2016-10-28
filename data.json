@@ -518,5 +518,18 @@
 			"https://itunes.apple.com/us/podcast/id1049828816",
 			"http://www.stitcher.com/podcast/ft-startup-stories"
 		]
+	},
+	"ft-world-tech-founders": {
+		"tags": [
+			[
+				"primarySection",
+				"FT World Tech Founders Podcast",
+				"MGQ4Yjk0ZmEtMzIyOS00NmM3LTljMGItYmYxM2QwOTQyYWEw-QnJhbmRz"
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/us/podcast/id1169101860",
+			"http://www.stitcher.com/podcast/financial-times/ft-world-tech-founders"
+		]
 	}
 }
