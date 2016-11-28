@@ -531,5 +531,18 @@
 			"https://itunes.apple.com/us/podcast/id1170158709",
 			"http://www.stitcher.com/podcast/financial-times/ft-world-tech-founders"
 		]
+	},
+	"ft-everything-else": {
+		"tags": [
+			[
+				"primarySection",
+				"FT Everything Else Podcast",
+				"Mjg1Y2RkNDktOGY0ZC00NDk4LWI5YWQtMTdmNTQ4NjhmNTNl-QnJhbmRz"
+			]
+		],
+		"links": [
+			"https://itunes.apple.com/gb/podcast/ft-everything-else/id1179847741",
+			"http://www.stitcher.com/podcast/financial-times/ft-everything-else"
+		]
 	}
 }
