@@ -17,6 +17,50 @@
 				"ZDkyYTVhMzYtYjAyOS00OWI1LWI5ZTgtM2QyYTIzYjk4Y2Jj-QnJhbmRz"
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/1ccd0d9f-8849-32a6-941a-0d37e1001603",
+				"apiUrl": "http://api.ft.com/brands/1ccd0d9f-8849-32a6-941a-0d37e1001603",
+				"prefLabel": "FT Alphachat",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"apiUrl": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"prefLabel": "Markets",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/89d15f70-640d-11e4-9803-0800200c9a66",
+				"apiUrl": "http://api.ft.com/brands/89d15f70-640d-11e4-9803-0800200c9a66",
+				"prefLabel": "FT Alphaville",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "BRAND"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id448302257",
 			"http://www.stitcher.com/podcast/financial-times/ft-alphachat",
@@ -42,6 +86,50 @@
 				"Life & Arts",
 				"MTQ4-U2VjdGlvbnM="
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/1d3f86a4-4df8-3652-adfc-dcae9e6645a5",
+				"apiUrl": "http://api.ft.com/brands/1d3f86a4-4df8-3652-adfc-dcae9e6645a5",
+				"prefLabel": "FT Life of a Song podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/02afce67-6a86-3e49-8425-5f026b0d9be4",
+				"apiUrl": "http://api.ft.com/things/02afce67-6a86-3e49-8425-5f026b0d9be4",
+				"prefLabel": "Arts",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/f967910f-67d5-31f7-a031-64f8af0d9cf1",
+				"apiUrl": "http://api.ft.com/things/f967910f-67d5-31f7-a031-64f8af0d9cf1",
+				"prefLabel": "Life & Arts",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
 		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id402479253",
@@ -74,6 +162,64 @@
 				"NjE=-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/25c824cb-804a-30e6-89a9-413a160de1e2",
+				"apiUrl": "http://api.ft.com/brands/25c824cb-804a-30e6-89a9-413a160de1e2",
+				"prefLabel": "Banking Weekly podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/f460326d-d78d-31b4-bb01-c18e2a080945",
+				"apiUrl": "http://api.ft.com/things/f460326d-d78d-31b4-bb01-c18e2a080945",
+				"prefLabel": "Banks",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/852939c8-859c-361e-8514-f82f6c041580",
+				"apiUrl": "http://api.ft.com/things/852939c8-859c-361e-8514-f82f6c041580",
+				"prefLabel": "Companies",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/6029e37f-337e-3e25-9dbe-8ed6dcb2837b",
+				"apiUrl": "http://api.ft.com/things/6029e37f-337e-3e25-9dbe-8ed6dcb2837b",
+				"prefLabel": "Financial Services",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id374270310",
 			"http://www.stitcher.com/podcast/financial-times/banking-weekly",
@@ -94,6 +240,36 @@
 				"The Big Read",
 				"MmFjMzRlYzAtN2I5ZS00NDNjLTg5MWQtNWQzOWJmMzQzOGNi-QnJhbmRz"
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/be794282-96a0-34be-93e9-7c17213c5f43",
+				"apiUrl": "http://api.ft.com/brands/be794282-96a0-34be-93e9-7c17213c5f43",
+				"prefLabel": "FT Big Read podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/a8294ac3-9e1e-33a2-b317-60120fee2ba3",
+				"apiUrl": "http://api.ft.com/brands/a8294ac3-9e1e-33a2-b317-60120fee2ba3",
+				"prefLabel": "The Big Read",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "BRAND"
+			}
 		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id878656889",
@@ -116,6 +292,36 @@
 				"MzA2ODFhMTAtYjNmNy00YTY2LTg3NjAtZmEzNWFmYmFkNGEy-U3BlY2lhbFJlcG9ydHM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/12daad38-beeb-3003-bdf8-57629c7eae4b",
+				"apiUrl": "http://api.ft.com/brands/12daad38-beeb-3003-bdf8-57629c7eae4b",
+				"prefLabel": "FT Connected Business podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/5496befe-9c7f-3f7d-bf18-cfe80dd6291c",
+				"apiUrl": "http://api.ft.com/things/5496befe-9c7f-3f7d-bf18-cfe80dd6291c",
+				"prefLabel": "The Connected Business",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/SpecialReport"
+				],
+				"directType": "http://www.ft.com/ontology/SpecialReport",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SPECIALREPORT"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id497374200",
 			"http://www.stitcher.com/podcast/financial-times/ft-connected-business"
@@ -134,6 +340,36 @@
 				"NTQ=-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/944e87ca-a721-3212-a67b-c563e3301d14",
+				"apiUrl": "http://api.ft.com/brands/944e87ca-a721-3212-a67b-c563e3301d14",
+				"prefLabel": "Copenhagen Summit podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/40433e6c-d2ac-3994-b168-d33b89b284c7",
+				"apiUrl": "http://api.ft.com/things/40433e6c-d2ac-3994-b168-d33b89b284c7",
+				"prefLabel": "Science & Environment",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": []
 	},
 	"ft-digital-business": {
@@ -149,6 +385,36 @@
 				"MzA2ODFhMTAtYjNmNy00YTY2LTg3NjAtZmEzNWFmYmFkNGEy-U3BlY2lhbFJlcG9ydHM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/0b476397-9f63-3829-b3cd-b8346fe192bf",
+				"apiUrl": "http://api.ft.com/brands/0b476397-9f63-3829-b3cd-b8346fe192bf",
+				"prefLabel": "FT Digital Business with Peter Whitehead",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/5496befe-9c7f-3f7d-bf18-cfe80dd6291c",
+				"apiUrl": "http://api.ft.com/things/5496befe-9c7f-3f7d-bf18-cfe80dd6291c",
+				"prefLabel": "The Connected Business",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/SpecialReport"
+				],
+				"directType": "http://www.ft.com/ontology/SpecialReport",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SPECIALREPORT"
+			}
+		],
 		"links": []
 	},
 	"ft-digital-business-mi": {
@@ -163,6 +429,36 @@
 				"The Connected Business",
 				"MzA2ODFhMTAtYjNmNy00YTY2LTg3NjAtZmEzNWFmYmFkNGEy-U3BlY2lhbFJlcG9ydHM="
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/208c6238-c222-3ed0-99a5-2703232f360e",
+				"apiUrl": "http://api.ft.com/brands/208c6238-c222-3ed0-99a5-2703232f360e",
+				"prefLabel": "FT Digital Business: Managing Intelligence",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/5496befe-9c7f-3f7d-bf18-cfe80dd6291c",
+				"apiUrl": "http://api.ft.com/things/5496befe-9c7f-3f7d-bf18-cfe80dd6291c",
+				"prefLabel": "The Connected Business",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/SpecialReport"
+				],
+				"directType": "http://www.ft.com/ontology/SpecialReport",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SPECIALREPORT"
+			}
 		],
 		"links": []
 	},
@@ -184,6 +480,50 @@
 				"MTA2-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/2ab326aa-72ab-36f7-ad90-c47005fdf268",
+				"apiUrl": "http://api.ft.com/brands/2ab326aa-72ab-36f7-ad90-c47005fdf268",
+				"prefLabel": "FT Emerging Markets Weekly podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"apiUrl": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"prefLabel": "Markets",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/1cda05e1-128c-393a-9517-1dafedeb049f",
+				"apiUrl": "http://api.ft.com/things/1cda05e1-128c-393a-9517-1dafedeb049f",
+				"prefLabel": "Emerging Markets",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": []
 	},
 	"ft-energy-weekly": {
@@ -204,6 +544,50 @@
 				"Mjk=-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/363f7fa3-a030-3dfc-ae50-2048a31cebc9",
+				"apiUrl": "http://api.ft.com/brands/363f7fa3-a030-3dfc-ae50-2048a31cebc9",
+				"prefLabel": "FT Energy Weekly podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/eae81e92-5092-350c-8dbf-741d54be79a5",
+				"apiUrl": "http://api.ft.com/things/eae81e92-5092-350c-8dbf-741d54be79a5",
+				"prefLabel": "Energy",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/852939c8-859c-361e-8514-f82f6c041580",
+				"apiUrl": "http://api.ft.com/things/852939c8-859c-361e-8514-f82f6c041580",
+				"prefLabel": "Companies",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": []
 	},
 	"ft-hard-currency": {
@@ -223,6 +607,50 @@
 				"Currencies",
 				"MTAz-U2VjdGlvbnM="
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/cd9a82b7-18ff-3b5d-9f6d-0843e37c40cb",
+				"apiUrl": "http://api.ft.com/brands/cd9a82b7-18ff-3b5d-9f6d-0843e37c40cb",
+				"prefLabel": "Hard Currency podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"apiUrl": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"prefLabel": "Markets",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/19e0e2af-78c6-3e3d-942b-e4fbe27516dd",
+				"apiUrl": "http://api.ft.com/things/19e0e2af-78c6-3e3d-942b-e4fbe27516dd",
+				"prefLabel": "Currencies",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
 		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id527135392",
@@ -245,6 +673,36 @@
 				"MTU3-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/3d46b93e-a9c0-389b-b1bf-ee491bc0dab4",
+				"apiUrl": "http://api.ft.com/brands/3d46b93e-a9c0-389b-b1bf-ee491bc0dab4",
+				"prefLabel": "FT House and Home podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/20f53e5b-3de9-34e4-9202-d019473b9b36",
+				"apiUrl": "http://api.ft.com/things/20f53e5b-3de9-34e4-9202-d019473b9b36",
+				"prefLabel": "House & Home",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": []
 	},
 	"ft-investigations": {
@@ -261,6 +719,22 @@
 			"http://audioboom.com/channel/ftinvestigations",
 			"https://soundcloud.com/ft-investigations",
 			"https://overcast.fm/itunes1012901367"
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/257dc700-066e-3348-9d94-fb2dddb0d024",
+				"apiUrl": "http://api.ft.com/brands/257dc700-066e-3348-9d94-fb2dddb0d024",
+				"prefLabel": "FT Investigations podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			}
 		]
 	},
 	"ft-lucy-kellaway": {
@@ -280,6 +754,49 @@
 				"Lucy Kellaway",
 				"Q0ItMDAwMDkyNg==-QXV0aG9ycw=="
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/3b55c945-6c23-37bb-8ee5-2bf494ac036a",
+				"apiUrl": "http://api.ft.com/brands/3b55c945-6c23-37bb-8ee5-2bf494ac036a",
+				"prefLabel": "Listen to Lucy",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/a41d6a1c-7dd3-3e86-8df8-a71e9f87def3",
+				"apiUrl": "http://api.ft.com/things/a41d6a1c-7dd3-3e86-8df8-a71e9f87def3",
+				"prefLabel": "Opinion",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/8f9ac45f-2cc2-35f7-83f4-579c66a09eb0",
+				"apiUrl": "http://api.ft.com/people/8f9ac45f-2cc2-35f7-83f4-579c66a09eb0",
+				"prefLabel": "Lucy Kellaway",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/person/Person"
+				],
+				"directType": "http://www.ft.com/ontology/person/Person",
+				"predicate": "http://www.ft.com/ontology/annotation/hasAuthor",
+				"type": "PERSON"
+			}
 		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id201455746",
@@ -302,6 +819,36 @@
 				"MTI1-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/2dfc79e2-84c2-3f08-82bc-d0a13c937f9b",
+				"apiUrl": "http://api.ft.com/brands/2dfc79e2-84c2-3f08-82bc-d0a13c937f9b",
+				"prefLabel": "FT Management podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/f814d8f7-d38e-31b8-a51f-3882805288fd",
+				"apiUrl": "http://api.ft.com/things/f814d8f7-d38e-31b8-a51f-3882805288fd",
+				"prefLabel": "Work & Careers",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": []
 	},
 	"ft-martin-wolf": {
@@ -322,6 +869,49 @@
 				"Q0ItMDAwMDkwMA==-QXV0aG9ycw=="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/3fd3f250-c02b-3bd3-9dfa-446000c149e5",
+				"apiUrl": "http://api.ft.com/brands/3fd3f250-c02b-3bd3-9dfa-446000c149e5",
+				"prefLabel": "Martin Wolf podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/a41d6a1c-7dd3-3e86-8df8-a71e9f87def3",
+				"apiUrl": "http://api.ft.com/things/a41d6a1c-7dd3-3e86-8df8-a71e9f87def3",
+				"prefLabel": "Opinion",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/0f07d468-fc37-3c44-bf19-a81f2aae9f36",
+				"apiUrl": "http://api.ft.com/people/0f07d468-fc37-3c44-bf19-a81f2aae9f36",
+				"prefLabel": "Martin Wolf",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/person/Person"
+				],
+				"directType": "http://www.ft.com/ontology/person/Person",
+				"predicate": "http://www.ft.com/ontology/annotation/hasAuthor",
+				"type": "PERSON"
+			}
+		],
 		"links": []
 	},
 	"ft-money-show": {
@@ -336,6 +926,36 @@
 				"Personal Finance",
 				"MTQw-U2VjdGlvbnM="
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/6d289d62-0272-39e0-9254-28ac84fd3279",
+				"apiUrl": "http://api.ft.com/brands/6d289d62-0272-39e0-9254-28ac84fd3279",
+				"prefLabel": "FT Money Show",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/59fd6642-055c-30b0-b2b8-8120bc2990af",
+				"apiUrl": "http://api.ft.com/things/59fd6642-055c-30b0-b2b8-8120bc2990af",
+				"prefLabel": "Personal Finance",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
 		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id287031335",
@@ -358,6 +978,36 @@
 				"MQ==-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/03fb584e-b1e2-3e2b-829a-d8ee967d668d",
+				"apiUrl": "http://api.ft.com/brands/03fb584e-b1e2-3e2b-829a-d8ee967d668d",
+				"prefLabel": "FT News podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/d8009323-f898-3207-b543-eab4427b7a77",
+				"apiUrl": "http://api.ft.com/things/d8009323-f898-3207-b543-eab4427b7a77",
+				"prefLabel": "World",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id379613801",
 			"http://www.stitcher.com/podcast/financial-times/ft-news",
@@ -379,6 +1029,36 @@
 				"MTQ4-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/25635b6a-f0ad-360e-bb32-4402efd111b2",
+				"apiUrl": "http://api.ft.com/brands/25635b6a-f0ad-360e-bb32-4402efd111b2",
+				"prefLabel": "Robin Robertson podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/f967910f-67d5-31f7-a031-64f8af0d9cf1",
+				"apiUrl": "http://api.ft.com/things/f967910f-67d5-31f7-a031-64f8af0d9cf1",
+				"prefLabel": "Life & Arts",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": []
 	},
 	"ft-science": {
@@ -394,7 +1074,37 @@
 				"NTQ=-U2VjdGlvbnM="
 			]
 		],
-		"links": []
+		"links": [],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/57f6d637-83e7-3080-844b-dac905b49a47",
+				"apiUrl": "http://api.ft.com/brands/57f6d637-83e7-3080-844b-dac905b49a47",
+				"prefLabel": "FT Science podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/40433e6c-d2ac-3994-b168-d33b89b284c7",
+				"apiUrl": "http://api.ft.com/things/40433e6c-d2ac-3994-b168-d33b89b284c7",
+				"prefLabel": "Science & Environment",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		]
 	},
 	"ft-stephen-fry-lady-gaga": {
 		"tags": [
@@ -413,6 +1123,50 @@
 				"FT Magazine",
 				"NzE=-U2VjdGlvbnM="
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/fbd59e9e-1dc8-3909-95d0-253e54fa822c",
+				"apiUrl": "http://api.ft.com/brands/fbd59e9e-1dc8-3909-95d0-253e54fa822c",
+				"prefLabel": "Stephen Fry and Lady Gaga podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/f967910f-67d5-31f7-a031-64f8af0d9cf1",
+				"apiUrl": "http://api.ft.com/things/f967910f-67d5-31f7-a031-64f8af0d9cf1",
+				"prefLabel": "Life & Arts",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"apiUrl": "http://api.ft.com/things/d969d76e-f8f4-34ae-bc38-95cfd0884740",
+				"prefLabel": "Markets",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
 		],
 		"links": []
 	},
@@ -439,6 +1193,63 @@
 				"OTAzZjM5YTgtZGU1Ny00MjU5LTgxMmEtZGIzMGY4YTg5NDJi-VG9waWNz"
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/9886e6c3-a823-3ca4-a722-322ed07a8f3c",
+				"apiUrl": "http://api.ft.com/brands/9886e6c3-a823-3ca4-a722-322ed07a8f3c",
+				"prefLabel": "FT UK General Election 2010 podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/98815f9a-0c35-3824-98fb-f134965f56b7",
+				"apiUrl": "http://api.ft.com/things/98815f9a-0c35-3824-98fb-f134965f56b7",
+				"prefLabel": "UK",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/f2aad41c-527a-3188-b3cc-dabbe8f08b5d",
+				"apiUrl": "http://api.ft.com/things/f2aad41c-527a-3188-b3cc-dabbe8f08b5d",
+				"prefLabel": "UK Politics & Policy",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			},
+			{
+				"id": "http://api.ft.com/things/8dcc35fb-78df-3609-9d97-81134368c5cc",
+				"apiUrl": "http://api.ft.com/things/8dcc35fb-78df-3609-9d97-81134368c5cc",
+				"prefLabel": "UK General Election",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/Topic"
+				],
+				"directType": "http://www.ft.com/ontology/Topic",
+				"predicate": "http://www.ft.com/ontology/annotation/majorMentions",
+				"type": "TOPIC"
+			}
+		],
 		"links": []
 	},
 	"ft-uk-general-election-2015": {
@@ -453,6 +1264,36 @@
 				"World",
 				"MQ==-U2VjdGlvbnM="
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/6034b991-574d-3796-9b02-e292ee95ad78",
+				"apiUrl": "http://api.ft.com/brands/6034b991-574d-3796-9b02-e292ee95ad78",
+				"prefLabel": "UK Politics Podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/d8009323-f898-3207-b543-eab4427b7a77",
+				"apiUrl": "http://api.ft.com/things/d8009323-f898-3207-b543-eab4427b7a77",
+				"prefLabel": "World",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
 		],
 		"links": [
 			"http://www.stitcher.com/podcast/financial-times/UK-election-2015",
@@ -472,6 +1313,36 @@
 				"MQ==-U2VjdGlvbnM="
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/6b736d13-45aa-3e3c-90ae-1d2ed23d32c1",
+				"apiUrl": "http://api.ft.com/brands/6b736d13-45aa-3e3c-90ae-1d2ed23d32c1",
+				"prefLabel": "FT World Weekly podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/d8009323-f898-3207-b543-eab4427b7a77",
+				"apiUrl": "http://api.ft.com/things/d8009323-f898-3207-b543-eab4427b7a77",
+				"prefLabel": "World",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/Section"
+				],
+				"directType": "http://www.ft.com/ontology/Section",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
+				"type": "SECTION"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/id377218713",
 			"http://www.stitcher.com/podcast/financial-times/world-weekly-with-gideon-rachman",
@@ -488,6 +1359,22 @@
 				"YTJkZmM2ZmQtM2JjNi00YzNiLTlkN2EtMDA2N2FhZjU4M2Ew-QnJhbmRz"
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/259d0f07-d892-3d4e-b908-cb4e4b97c039",
+				"apiUrl": "http://api.ft.com/brands/259d0f07-d892-3d4e-b908-cb4e4b97c039",
+				"prefLabel": "Mrs Moneypenny podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/ft-irreverent-questions-mrs/id1090589306?mt=2",
 			"http://www.stitcher.com/podcast/financial-times/ft-irreverent-questions-with-mrs-moneypenny"
@@ -500,6 +1387,22 @@
 				"FT Tech Tonic Podcast",
 				"NTE3MzdkYjEtYTI4YS00MzExLWJiZDUtNDk1YWRjNzY5ZmEz-QnJhbmRz"
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/d603f656-f598-3f70-a061-02b31b132828",
+				"apiUrl": "http://api.ft.com/brands/d603f656-f598-3f70-a061-02b31b132828",
+				"prefLabel": "FT Tech Tonic podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			}
 		],
 		"links": [
 			"https://itunes.apple.com/us/podcast/id1169101860",
@@ -514,6 +1417,22 @@
 				"YjFhMWYzMjQtZDIyNC00MmQ3LWI1M2MtYjBjYjAyNTczMWQz-QnJhbmRz"
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/a2ecdb35-80a0-33e2-a2f7-e9d4970b99d0",
+				"apiUrl": "http://api.ft.com/brands/a2ecdb35-80a0-33e2-a2f7-e9d4970b99d0",
+				"prefLabel": "FT Start-Up Stories",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/us/podcast/id1049828816",
 			"http://www.stitcher.com/podcast/ft-startup-stories"
@@ -527,6 +1446,22 @@
 				"MGQ4Yjk0ZmEtMzIyOS00NmM3LTljMGItYmYxM2QwOTQyYWEw-QnJhbmRz"
 			]
 		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/f27e2717-8baf-3af7-ba95-2ae26dff4ae5",
+				"apiUrl": "http://api.ft.com/brands/f27e2717-8baf-3af7-ba95-2ae26dff4ae5",
+				"prefLabel": "FT World Tech Founders podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			}
+		],
 		"links": [
 			"https://itunes.apple.com/us/podcast/id1170158709",
 			"http://www.stitcher.com/podcast/financial-times/ft-world-tech-founders"
@@ -539,6 +1474,22 @@
 				"FT Everything Else Podcast",
 				"Mjg1Y2RkNDktOGY0ZC00NDk4LWI5YWQtMTdmNTQ4NjhmNTNl-QnJhbmRz"
 			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/12f81524-9e41-31d0-9b45-e22e7b16cbe9",
+				"apiUrl": "http://api.ft.com/brands/12f81524-9e41-31d0-9b45-e22e7b16cbe9",
+				"prefLabel": "Everything Else podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			}
 		],
 		"links": [
 			"https://itunes.apple.com/gb/podcast/ft-everything-else/id1179847741",
