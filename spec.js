@@ -1,142 +1,127 @@
-'use strict';
+const assert = require('assert');
+const subject = require('./index');
+const data = require('./data');
 
-var assert = require('assert');
-var subject = require('./index');
-var data = require('./data');
+describe('Podcast Mapping', () => {
+	describe('.uniqueTags()', () => {
+		it('returns a de-duplicated array of all the tags used by the shows', () => {
+			const result = subject.uniqueTags();
+			const resultIds = result.map(tag => tag.id);
 
-describe('Podcast Mapping', function() {
+			assert.ok(Array.isArray(result));
+			assert.equal(result.length, 52);
 
-	describe('.uniqueTags()', function() {
-
-		it('returns a de-duplicated array of all the tags used by the shows', function() {
-			var result = subject.uniqueTags();
-			var resultIds = result.map(tag => tag.id);
-
-			resultIds.forEach(function(tagId, i) {
+			resultIds.forEach((tagId, i) => {
 				assert.equal(resultIds.indexOf(tagId), i);
 			});
 		});
 
-		it('maps keys to each tag', function() {
-			var result = subject.primaryTags();
+		it('maps keys to each tag', () => {
+			const result = subject.primaryTags();
 
-			result.forEach(function(tag) {
-				var keys = Object.keys(tag);
+			result.forEach((tag) => {
+				const keys = Object.keys(tag);
+
+				assert.ok(Array.isArray(result));
+				assert.equal(result.length, 29);
 
 				assert.equal(keys.indexOf('taxonomy'), 2);
 				assert.equal(keys.indexOf('name'), 1);
 				assert.equal(keys.indexOf('id'), 0);
 			});
 		});
-
 	});
 
-	describe('.primaryTags()', function() {
+	describe('.primaryTags()', () => {
+		it('returns an array of primary sections used by each show', () => {
+			const result = subject.primaryTags();
 
-		it('returns an array of primary sections used by each show', function() {
-			var result = subject.primaryTags();
-
+			assert.ok(Array.isArray(result));
 			assert.equal(result.length, Object.keys(data).length);
 
-			result.forEach(function(tag) {
+			result.forEach((tag) => {
 				assert.equal(tag.taxonomy, 'primarySection');
 			});
 		});
 
-		it('maps keys to each tag', function() {
-			var result = subject.primaryTags();
+		it('maps keys to each tag', () => {
+			const result = subject.primaryTags();
 
-			result.forEach(function(tag) {
-				var keys = Object.keys(tag);
+			result.forEach((tag) => {
+				const keys = Object.keys(tag);
 
 				assert.equal(keys.indexOf('taxonomy'), 2);
 				assert.equal(keys.indexOf('name'), 1);
 				assert.equal(keys.indexOf('id'), 0);
 			});
 		});
-
 	});
 
-	describe('.metadataFor()', function() {
-
-		context('Success', function() {
-
-			it('returns an array of tags for the given show', function() {
-				var result = subject.metadataFor('ft-news');
+	describe('.metadataFor()', () => {
+		context('Success', () => {
+			it('returns an array of tags for the given show', () => {
+				const result = subject.metadataFor('ft-news');
 
 				assert.ok(Array.isArray(result));
 				assert.equal(result.length, 2);
 			});
 
-			it('maps keys to each tag', function() {
-				var result = subject.metadataFor('ft-news');
+			it('maps keys to each tag', () => {
+				const result = subject.metadataFor('ft-news');
 
-				result.forEach(function(tag) {
-					var keys = Object.keys(tag);
+				result.forEach((tag) => {
+					const keys = Object.keys(tag);
 
 					assert.equal(keys.indexOf('taxonomy'), 2);
 					assert.equal(keys.indexOf('name'), 1);
 					assert.equal(keys.indexOf('id'), 0);
 				});
 			});
-
 		});
 
-		context('Failure', function() {
-
-			it('returns an empty array', function() {
-				var result = subject.metadataFor('a-non-existent-show');
+		context('Failure', () => {
+			it('returns an empty array', () => {
+				const result = subject.metadataFor('a-non-existent-show');
 
 				assert.ok(Array.isArray(result));
 				assert.equal(result.length, 0);
 			});
-
 		});
-
 	});
 
-	describe('.linksFor()', function() {
-
-		context('Success', function() {
-
-			it('returns an array of external links for the given show', function() {
-				var result = subject.linksFor('ft-news');
+	describe('.linksFor()', () => {
+		context('Success', () => {
+			it('returns an array of external links for the given show', () => {
+				const result = subject.linksFor('ft-news');
 
 				assert.ok(Array.isArray(result));
 				assert.equal(result.length, 5);
 			});
-
 		});
 
-		context('Failure', function() {
-
-			it('returns an empty array', function() {
-				var result = subject.linksFor('a-non-existent-show');
+		context('Failure', () => {
+			it('returns an empty array', () => {
+				const result = subject.linksFor('a-non-existent-show');
 
 				assert.ok(Array.isArray(result));
 				assert.equal(result.length, 0);
 			});
-
 		});
-
 	});
 
-	describe('.isThisTagAPodcast()', function() {
-
-		it('returns true if the given tag ID is a primary tag', function() {
-			var result = subject.isThisTagAPodcast('NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz');
+	describe('.isThisTagAPodcast()', () => {
+		it('returns true if the given tag ID is a primary tag', () => {
+			const result = subject.isThisTagAPodcast('NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz');
 
 			assert.ok(typeof result, 'boolean');
 			assert.equal(result, true);
 		});
 
-		it('returns false if the given tag ID is not a primary tag', function() {
-			var result = subject.isThisTagAPodcast('MTQ4-U2VjdGlvbnM=');
+		it('returns false if the given tag ID is not a primary tag', () => {
+			const result = subject.isThisTagAPodcast('MTQ4-U2VjdGlvbnM=');
 
 			assert.ok(typeof result, 'boolean');
 			assert.equal(result, false);
 		});
-
 	});
-
 });

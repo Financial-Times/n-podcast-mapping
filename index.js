@@ -1,65 +1,58 @@
-'use strict';
+const data = require('./data');
 
-var data = require('./data');
+const pair = ([ taxonomy, name, id ]) => {
+	return { id, name, taxonomy };
+};
 
-function pair(tag) {
-	return {
-		id: tag[2],
-		name: tag[1],
-		taxonomy: tag[0]
-	};
-}
+module.exports.uniqueTags = function () {
+	const unique = new Map();
 
-module.exports.uniqueTags = function() {
-	var uniqueTagList = [];
-	var completeTagList = [];
+	Object.keys(data).forEach((show) => {
+		data[show].tags.forEach((tag) => {
+			const tagId = tag[2];
 
-	Object.keys(data).forEach(function(showName) {
-		var show = data[showName];
-		completeTagList = completeTagList.concat(show.tags);
+			if (!unique.has(tagId)) {
+				unique.set(tagId, tag);
+			}
+		});
 	});
 
-	return completeTagList
-		.filter(function(tag) {
-			var exists = uniqueTagList.find(uniqueTag => tag[2] === uniqueTag[2]);
-			return !exists && uniqueTagList.push(tag);
+	return Array.from(unique.values()).map(pair);
+};
+
+module.exports.primaryTags = function () {
+	const primaryTags = [];
+
+	Object.keys(data).forEach((show) => {
+		data[show].tags.forEach((tag) => {
+			const taxonomy = tag[0];
+
+			if (taxonomy === 'primarySection') {
+				primaryTags.push(tag);
+			}
 		})
-		.map(pair);
+	});
+
+	return primaryTags.map(pair);
 };
 
-module.exports.primaryTags = function() {
-	return Object.keys(data)
-		.reduce(function(primaryTagList, showName) {
-			var show = data[showName];
-
-			primaryTagList = primaryTagList.concat(
-				show.tags.filter(function(tag) {
-					return tag[0] === 'primarySection';
-				})
-			);
-
-			return primaryTagList;
-		}, [])
-		.map(pair);
-};
-
-module.exports.metadataFor = function(slug) {
-	if (!data.hasOwnProperty(slug)) {
+module.exports.metadataFor = function (show) {
+	if (!data.hasOwnProperty(show)) {
 		return [];
 	}
 
-	return data[slug].tags.map(pair);
+	return data[show].tags.map(pair);
 };
 
-module.exports.linksFor = function(slug) {
-	if (!data.hasOwnProperty(slug)) {
+module.exports.linksFor = function (show) {
+	if (!data.hasOwnProperty(show)) {
 		return [];
 	}
 
-	return data[slug].links;
+	return data[show].links;
 };
 
-module.exports.isThisTagAPodcast = function(tagId) {
-	var podcastTags = this.primaryTags();
-	return podcastTags.some(tag => tag.id === tagId);
+module.exports.isThisTagAPodcast = function (tagId) {
+	const podcastTags = this.primaryTags();
+	return podcastTags.some((tag) => tag.id === tagId);
 };
