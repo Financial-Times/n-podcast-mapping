@@ -44,6 +44,14 @@ module.exports.metadataFor = function (show) {
 	return data[show].tags.map(pair);
 };
 
+module.exports.annotationsFor = function (show) {
+	if (!data.hasOwnProperty(show)) {
+		return [];
+	}
+
+	return data[show].annotations.map(pair);
+};
+
 module.exports.linksFor = function (show) {
 	if (!data.hasOwnProperty(show)) {
 		return [];
