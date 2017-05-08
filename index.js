@@ -49,7 +49,7 @@ module.exports.annotationsFor = function (show) {
 		return [];
 	}
 
-	return data[show].annotations.map(pair);
+	return data[show].annotations;
 };
 
 module.exports.linksFor = function (show) {

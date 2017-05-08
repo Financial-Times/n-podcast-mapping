@@ -89,6 +89,42 @@ describe('Podcast Mapping', () => {
 		});
 	});
 
+	describe('.annotationsFor()', () => {
+		context('Success', () => {
+			it('returns an array of annotations for the given show', () => {
+				const result = subject.annotationsFor('ft-news');
+
+				assert.ok(Array.isArray(result));
+				assert.equal(result.length, 2);
+			});
+
+			it('returns all information about every tag', () => {
+				const result = subject.annotationsFor('ft-news');
+
+				result.forEach((concept) => {
+					const keys = Object.keys(concept);
+
+					assert.ok(keys.includes('id'));
+					assert.ok(keys.includes('apiUrl'));
+					assert.ok(keys.includes('prefLabel'));
+					assert.ok(keys.includes('types'));
+					assert.ok(keys.includes('directType'));
+					assert.ok(keys.includes('predicate'));
+					assert.ok(keys.includes('type'));
+				});
+			});
+		});
+
+		context('Failure', () => {
+			it('returns an empty array', () => {
+				const result = subject.annotationsFor('a-non-existent-show');
+
+				assert.ok(Array.isArray(result));
+				assert.equal(result.length, 0);
+			});
+		});
+	});
+
 	describe('.linksFor()', () => {
 		context('Success', () => {
 			it('returns an array of external links for the given show', () => {
