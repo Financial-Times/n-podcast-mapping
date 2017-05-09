@@ -9,7 +9,7 @@ describe('Podcast Mapping', () => {
 			const resultIds = result.map(tag => tag.id);
 
 			assert.ok(Array.isArray(result));
-			assert.equal(result.length, 52);
+			assert.equal(result.length, 51);
 
 			resultIds.forEach((tagId, i) => {
 				assert.equal(resultIds.indexOf(tagId), i);
