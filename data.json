@@ -3,7 +3,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Alphachat",
+				"Alphachat podcast",
 				"MzU1ZGZlNmYtNjYwOS00ZmMzLWI2NmYtZWRiNWZiZjNiMmY4-QnJhbmRz"
 			],
 			[
@@ -21,7 +21,7 @@
 			{
 				"id": "http://api.ft.com/things/1ccd0d9f-8849-32a6-941a-0d37e1001603",
 				"apiUrl": "http://api.ft.com/brands/1ccd0d9f-8849-32a6-941a-0d37e1001603",
-				"prefLabel": "FT Alphachat",
+				"prefLabel": "Alphachat podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -73,7 +73,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Life of a Song podcast",
+				"Life of a Song podcast",
 				"NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz"
 			],
 			[
@@ -91,7 +91,7 @@
 			{
 				"id": "http://api.ft.com/things/1d3f86a4-4df8-3652-adfc-dcae9e6645a5",
 				"apiUrl": "http://api.ft.com/brands/1d3f86a4-4df8-3652-adfc-dcae9e6645a5",
-				"prefLabel": "FT Life of a Song podcast",
+				"prefLabel": "Life of a Song podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -232,7 +232,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Big Read podcast",
+				"Big Read podcast",
 				"MmM3N2VjNjktNDY4My00ZmQ4LWFkYjMtZjc5YTIxMzY2NzNj-QnJhbmRz"
 			],
 			[
@@ -245,7 +245,7 @@
 			{
 				"id": "http://api.ft.com/things/be794282-96a0-34be-93e9-7c17213c5f43",
 				"apiUrl": "http://api.ft.com/brands/be794282-96a0-34be-93e9-7c17213c5f43",
-				"prefLabel": "FT Big Read podcast",
+				"prefLabel": "Big Read podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -283,7 +283,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Connected Business podcast",
+				"Connected Business podcast",
 				"ZGQ4MjAyZjQtYTg4ZS00NmE5LTk0YmYtZTJlODY4N2Q2N2Fh-QnJhbmRz"
 			],
 			[
@@ -296,7 +296,7 @@
 			{
 				"id": "http://api.ft.com/things/12daad38-beeb-3003-bdf8-57629c7eae4b",
 				"apiUrl": "http://api.ft.com/brands/12daad38-beeb-3003-bdf8-57629c7eae4b",
-				"prefLabel": "FT Connected Business podcast",
+				"prefLabel": "Connected Business podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -376,7 +376,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Digital Business with Peter Whitehead",
+				"Digital Business podcast",
 				"ZTAyM2YyY2UtYWFmNS00YzBkLWJiNmUtNzM3NzBiNDM1ZDJh-QnJhbmRz"
 			],
 			[
@@ -389,7 +389,7 @@
 			{
 				"id": "http://api.ft.com/things/0b476397-9f63-3829-b3cd-b8346fe192bf",
 				"apiUrl": "http://api.ft.com/brands/0b476397-9f63-3829-b3cd-b8346fe192bf",
-				"prefLabel": "FT Digital Business with Peter Whitehead",
+				"prefLabel": "Digital Business podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -421,8 +421,8 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Digital Business: Managing Intelligence",
-				"YjI0MjkxMmUtZDFhOS00MTg2LTk1YzUtYmEyNzRjZWJlMWIw-QnJhbmRz"
+				"Digital Business podcast",
+				"ZTAyM2YyY2UtYWFmNS00YzBkLWJiNmUtNzM3NzBiNDM1ZDJh-QnJhbmRz"
 			],
 			[
 				"specialReports",
@@ -432,9 +432,9 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/208c6238-c222-3ed0-99a5-2703232f360e",
-				"apiUrl": "http://api.ft.com/brands/208c6238-c222-3ed0-99a5-2703232f360e",
-				"prefLabel": "FT Digital Business: Managing Intelligence",
+				"id": "http://api.ft.com/things/0b476397-9f63-3829-b3cd-b8346fe192bf",
+				"apiUrl": "http://api.ft.com/brands/0b476397-9f63-3829-b3cd-b8346fe192bf",
+				"prefLabel": "Digital Business podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -466,7 +466,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Emerging Markets Weekly podcast",
+				"Emerging Markets podcast",
 				"ZTIzMjE1NDYtNTBkZi00NWM1LTg2MjQtODA3YjQ2YmYyZjdl-QnJhbmRz"
 			],
 			[
@@ -484,7 +484,7 @@
 			{
 				"id": "http://api.ft.com/things/2ab326aa-72ab-36f7-ad90-c47005fdf268",
 				"apiUrl": "http://api.ft.com/brands/2ab326aa-72ab-36f7-ad90-c47005fdf268",
-				"prefLabel": "FT Emerging Markets Weekly podcast",
+				"prefLabel": "Emerging Markets podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -530,7 +530,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Energy Weekly podcast",
+				"Energy podcast",
 				"Nzk0MWJmNTMtZDczNy00NjEyLTgyMmMtNGE1MGU1MTRlNThh-QnJhbmRz"
 			],
 			[
@@ -548,7 +548,7 @@
 			{
 				"id": "http://api.ft.com/things/363f7fa3-a030-3dfc-ae50-2048a31cebc9",
 				"apiUrl": "http://api.ft.com/brands/363f7fa3-a030-3dfc-ae50-2048a31cebc9",
-				"prefLabel": "FT Energy Weekly podcast",
+				"prefLabel": "Energy podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -664,7 +664,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT House and Home podcast",
+				"House & Home podcast",
 				"MTUxMDlhMTQtMTVkOS00Y2VkLTg1MjQtZjhlOTQyNjZhOWRh-QnJhbmRz"
 			],
 			[
@@ -677,7 +677,7 @@
 			{
 				"id": "http://api.ft.com/things/3d46b93e-a9c0-389b-b1bf-ee491bc0dab4",
 				"apiUrl": "http://api.ft.com/brands/3d46b93e-a9c0-389b-b1bf-ee491bc0dab4",
-				"prefLabel": "FT House and Home podcast",
+				"prefLabel": "House & Home podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -810,7 +810,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Management podcast",
+				"Management podcast",
 				"MzliZjJjYWYtMTM4ZC00OGI3LTllYzMtOWQwMTIyMTQ4ZDJi-QnJhbmRz"
 			],
 			[
@@ -823,7 +823,7 @@
 			{
 				"id": "http://api.ft.com/things/2dfc79e2-84c2-3f08-82bc-d0a13c937f9b",
 				"apiUrl": "http://api.ft.com/brands/2dfc79e2-84c2-3f08-82bc-d0a13c937f9b",
-				"prefLabel": "FT Management podcast",
+				"prefLabel": "Management podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -969,7 +969,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT News podcast",
+				"News podcast",
 				"NTZlM2FhN2YtYWJlNC00ZGU0LTk1NzMtMmE3Y2Q5MjVhNGJm-QnJhbmRz"
 			],
 			[
@@ -982,7 +982,7 @@
 			{
 				"id": "http://api.ft.com/things/03fb584e-b1e2-3e2b-829a-d8ee967d668d",
 				"apiUrl": "http://api.ft.com/brands/03fb584e-b1e2-3e2b-829a-d8ee967d668d",
-				"prefLabel": "FT News podcast",
+				"prefLabel": "News podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1065,7 +1065,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Science podcast",
+				"Science podcast",
 				"ZGIwZGQ1N2YtN2FkOC00MWZiLTllNjgtN2Y3NWU1YzgxMWI2-QnJhbmRz"
 			],
 			[
@@ -1079,7 +1079,7 @@
 			{
 				"id": "http://api.ft.com/things/57f6d637-83e7-3080-844b-dac905b49a47",
 				"apiUrl": "http://api.ft.com/brands/57f6d637-83e7-3080-844b-dac905b49a47",
-				"prefLabel": "FT Science podcast",
+				"prefLabel": "Science podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1174,7 +1174,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT UK General Election 2010 podcast",
+				"UK General Election 2010 podcast",
 				"MGRjYWRlNTktYmFjOS00YjYzLWIxZjUtZTBkN2IxZGFhY2Nl-QnJhbmRz"
 			],
 			[
@@ -1197,7 +1197,7 @@
 			{
 				"id": "http://api.ft.com/things/9886e6c3-a823-3ca4-a722-322ed07a8f3c",
 				"apiUrl": "http://api.ft.com/brands/9886e6c3-a823-3ca4-a722-322ed07a8f3c",
-				"prefLabel": "FT UK General Election 2010 podcast",
+				"prefLabel": "UK General Election 2010 podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1256,7 +1256,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Politics podcast",
+				"UK Politics podcast",
 				"Y2MyOTBmOGQtYWQyMi00NjVhLTkxNmMtNTkwOGY1ZWQwM2Mw-QnJhbmRz"
 			],
 			[
@@ -1269,7 +1269,7 @@
 			{
 				"id": "http://api.ft.com/things/6034b991-574d-3796-9b02-e292ee95ad78",
 				"apiUrl": "http://api.ft.com/brands/6034b991-574d-3796-9b02-e292ee95ad78",
-				"prefLabel": "UK Politics Podcast",
+				"prefLabel": "UK Politics podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1304,7 +1304,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT World Weekly podcast",
+				"World Weekly podcast",
 				"OTdiZGQ4ODItZWU0Yi00MjU5LTkyZTAtNDA3ZGU1ZmFlY2Rh-QnJhbmRz"
 			],
 			[
@@ -1317,7 +1317,7 @@
 			{
 				"id": "http://api.ft.com/things/6b736d13-45aa-3e3c-90ae-1d2ed23d32c1",
 				"apiUrl": "http://api.ft.com/brands/6b736d13-45aa-3e3c-90ae-1d2ed23d32c1",
-				"prefLabel": "FT World Weekly podcast",
+				"prefLabel": "World Weekly podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1384,7 +1384,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Tech Tonic Podcast",
+				"Tech Tonic podcast",
 				"NTE3MzdkYjEtYTI4YS00MzExLWJiZDUtNDk1YWRjNzY5ZmEz-QnJhbmRz"
 			]
 		],
@@ -1392,7 +1392,7 @@
 			{
 				"id": "http://api.ft.com/things/d603f656-f598-3f70-a061-02b31b132828",
 				"apiUrl": "http://api.ft.com/brands/d603f656-f598-3f70-a061-02b31b132828",
-				"prefLabel": "FT Tech Tonic podcast",
+				"prefLabel": "Tech Tonic podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1413,7 +1413,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Start-Up Stories",
+				"Start-Up Stories podcast",
 				"YjFhMWYzMjQtZDIyNC00MmQ3LWI1M2MtYjBjYjAyNTczMWQz-QnJhbmRz"
 			]
 		],
@@ -1421,7 +1421,7 @@
 			{
 				"id": "http://api.ft.com/things/a2ecdb35-80a0-33e2-a2f7-e9d4970b99d0",
 				"apiUrl": "http://api.ft.com/brands/a2ecdb35-80a0-33e2-a2f7-e9d4970b99d0",
-				"prefLabel": "FT Start-Up Stories",
+				"prefLabel": "Start-Up Stories podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1442,7 +1442,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT World Tech Founders Podcast",
+				"World Tech Founders podcast",
 				"MGQ4Yjk0ZmEtMzIyOS00NmM3LTljMGItYmYxM2QwOTQyYWEw-QnJhbmRz"
 			]
 		],
@@ -1450,7 +1450,7 @@
 			{
 				"id": "http://api.ft.com/things/f27e2717-8baf-3af7-ba95-2ae26dff4ae5",
 				"apiUrl": "http://api.ft.com/brands/f27e2717-8baf-3af7-ba95-2ae26dff4ae5",
-				"prefLabel": "FT World Tech Founders podcast",
+				"prefLabel": "World Tech Founders podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
@@ -1471,7 +1471,7 @@
 		"tags": [
 			[
 				"primarySection",
-				"FT Everything Else Podcast",
+				"Everything Else podcast",
 				"Mjg1Y2RkNDktOGY0ZC00NDk4LWI5YWQtMTdmNTQ4NjhmNTNl-QnJhbmRz"
 			]
 		],

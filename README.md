@@ -18,17 +18,17 @@ const urls = podcasts.linksFor('ft-alphachat');
 
 console.log(urls); // [ 'https://itunes', 'http://soundcloud' ]
 
-// returns an array of tags for the given show
+// returns an array of TME tags for the given show
 const tags = podcasts.metadataFor('ft-banking-weekly');
 
 console.log(tags); // [ { id: "…", name: "…", taxonomy: "…" }, {…} ]
 
-// returns an array of primary tags used by each show
+// returns an array of primary TME tags used by each show
 const primaryTags = podcasts.primaryTags();
 
 console.log(primaryTags); // [ { id: "…", name: "…", taxonomy: "…" }, {…} ]
 
-// returns a de-duplicated array of all the tags used by the shows
+// returns a de-duplicated array of all the TME tags used by the shows
 const uniqueTags = podcasts.uniqueTags();
 
 console.log(uniqueTags); // [ { id: "…", name: "…", taxonomy: "…" }, {…} ]
@@ -37,4 +37,9 @@ console.log(uniqueTags); // [ { id: "…", name: "…", taxonomy: "…" }, {…}
 const tagId = 'NzA0NWQ2OTUtNDdhZC00ZGMxLWI4MGEtODZkYTY5MjQ0ZTk1-QnJhbmRz';
 
 console.log(podcasts.isThisTagAPodcast(tagId)); // true
+
+// returns an array of concept annotations for the given show
+const annotations = podcasts.annotationsFor('ft-arts');
+
+console.log(annotations); // [ { id: "…", prefLabel: "…", predicate: "…" }, {…} ]
 ```
