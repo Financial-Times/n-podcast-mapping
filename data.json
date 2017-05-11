@@ -1,4 +1,47 @@
 {
+	"brexitunspun": {
+		"tags": [
+			[
+				"primarySection",
+				"Brexit Unspun podcast",
+				"OTI3ZTFiZjItODVlMC00YTgzLWE4NzUtNmM0NGEwNjhhNDc1-QnJhbmRz"
+			],
+			[
+				"topics",
+				"Brexit",
+				"NDdiMzAyNzctMTRlMy00Zjk1LWEyZjYtYmYwZWIwYWU2NzAy-VG9waWNz"
+			]
+		],
+		"annotations": [
+			{
+				"id": "http://api.ft.com/things/ddffecfa-8bd8-32a4-ba6e-9d23a17664f7",
+				"apiUrl": "http://api.ft.com/brands/ddffecfa-8bd8-32a4-ba6e-9d23a17664f7",
+				"prefLabel": "Brexit unspun podcast",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/classification/Classification",
+					"http://www.ft.com/ontology/product/Brand"
+				],
+				"directType": "http://www.ft.com/ontology/product/Brand",
+				"predicate": "http://www.ft.com/ontology/classification/isPrimarilyClassifiedBy",
+				"type": "BRAND"
+			},
+			{
+				"id": "http://api.ft.com/things/05bfed9c-e2aa-314d-99c0-d864f1c91428",
+				"apiUrl": "http://api.ft.com/things/05bfed9c-e2aa-314d-99c0-d864f1c91428",
+				"prefLabel": "Brexit",
+				"types": [
+					"http://www.ft.com/ontology/core/Thing",
+					"http://www.ft.com/ontology/concept/Concept",
+					"http://www.ft.com/ontology/Topic"
+				],
+				"directType": "http://www.ft.com/ontology/Topic",
+				"predicate": "http://www.ft.com/ontology/annotation/about",
+				"type": "TOPIC"
+			}
+		]
+	},
 	"ft-alphachat": {
 		"tags": [
 			[
