@@ -40,7 +40,8 @@
 				"predicate": "http://www.ft.com/ontology/annotation/about",
 				"type": "TOPIC"
 			}
-		]
+		],
+		"links": []
 	},
 	"ft-alphachat": {
 		"tags": [
