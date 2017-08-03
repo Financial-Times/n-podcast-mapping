@@ -16,7 +16,7 @@
 			{
 				"id": "http://api.ft.com/things/ddffecfa-8bd8-32a4-ba6e-9d23a17664f7",
 				"apiUrl": "http://api.ft.com/brands/ddffecfa-8bd8-32a4-ba6e-9d23a17664f7",
-				"prefLabel": "Brexit unspun podcast",
+				"prefLabel": "Brexit Unspun podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
 					"http://www.ft.com/ontology/concept/Concept",
