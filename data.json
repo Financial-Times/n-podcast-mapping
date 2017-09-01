@@ -14,8 +14,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/ddffecfa-8bd8-32a4-ba6e-9d23a17664f7",
-				"apiUrl": "http://api.ft.com/brands/ddffecfa-8bd8-32a4-ba6e-9d23a17664f7",
+				"id": "http://api.ft.com/things/c4e899ed-157e-4446-86f0-5a65803dc07a",
+				"apiUrl": "http://api.ft.com/brands/c4e899ed-157e-4446-86f0-5a65803dc07a",
 				"prefLabel": "Brexit Unspun podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -133,8 +133,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/1d3f86a4-4df8-3652-adfc-dcae9e6645a5",
-				"apiUrl": "http://api.ft.com/brands/1d3f86a4-4df8-3652-adfc-dcae9e6645a5",
+				"id": "http://api.ft.com/things/72ecae21-af5a-46db-914c-f8072d342bd2",
+				"apiUrl": "http://api.ft.com/brands/72ecae21-af5a-46db-914c-f8072d342bd2",
 				"prefLabel": "Life of a Song podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -287,8 +287,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/be794282-96a0-34be-93e9-7c17213c5f43",
-				"apiUrl": "http://api.ft.com/brands/be794282-96a0-34be-93e9-7c17213c5f43",
+				"id": "http://api.ft.com/things/b15f46d2-4313-41c5-8cda-3b08b3cb03d8",
+				"apiUrl": "http://api.ft.com/brands/b15f46d2-4313-41c5-8cda-3b08b3cb03d8",
 				"prefLabel": "Big Read podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -654,8 +654,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/cd9a82b7-18ff-3b5d-9f6d-0843e37c40cb",
-				"apiUrl": "http://api.ft.com/brands/cd9a82b7-18ff-3b5d-9f6d-0843e37c40cb",
+				"id": "http://api.ft.com/things/656a5b48-b9bc-4d0c-bdae-c0eaa13d5e4c",
+				"apiUrl": "http://api.ft.com/brands/656a5b48-b9bc-4d0c-bdae-c0eaa13d5e4c",
 				"prefLabel": "Hard Currency podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -766,8 +766,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/257dc700-066e-3348-9d94-fb2dddb0d024",
-				"apiUrl": "http://api.ft.com/brands/257dc700-066e-3348-9d94-fb2dddb0d024",
+				"id": "http://api.ft.com/things/674ba051-c34f-411c-93f5-458b0b0af676",
+				"apiUrl": "http://api.ft.com/brands/674ba051-c34f-411c-93f5-458b0b0af676",
 				"prefLabel": "FT Investigations podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -865,8 +865,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/2dfc79e2-84c2-3f08-82bc-d0a13c937f9b",
-				"apiUrl": "http://api.ft.com/brands/2dfc79e2-84c2-3f08-82bc-d0a13c937f9b",
+				"id": "http://api.ft.com/things/7f286b3b-d7a5-4847-b1d5-cd234ba04206",
+				"apiUrl": "http://api.ft.com/brands/7f286b3b-d7a5-4847-b1d5-cd234ba04206",
 				"prefLabel": "Management podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -973,8 +973,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/6d289d62-0272-39e0-9254-28ac84fd3279",
-				"apiUrl": "http://api.ft.com/brands/6d289d62-0272-39e0-9254-28ac84fd3279",
+				"id": "http://api.ft.com/things/a16e302d-07c2-4a5c-89c8-d5e53691015e",
+				"apiUrl": "http://api.ft.com/brands/a16e302d-07c2-4a5c-89c8-d5e53691015e",
 				"prefLabel": "FT Money Show",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -1024,8 +1024,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/03fb584e-b1e2-3e2b-829a-d8ee967d668d",
-				"apiUrl": "http://api.ft.com/brands/03fb584e-b1e2-3e2b-829a-d8ee967d668d",
+				"id": "http://api.ft.com/things/836c20ec-98ed-40da-a0d3-53426f74787e",
+				"apiUrl": "http://api.ft.com/brands/836c20ec-98ed-40da-a0d3-53426f74787e",
 				"prefLabel": "News podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -1311,8 +1311,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/6034b991-574d-3796-9b02-e292ee95ad78",
-				"apiUrl": "http://api.ft.com/brands/6034b991-574d-3796-9b02-e292ee95ad78",
+				"id": "http://api.ft.com/things/c8329bbd-9aac-4b7d-866b-bebc9f374cf2",
+				"apiUrl": "http://api.ft.com/brands/c8329bbd-9aac-4b7d-866b-bebc9f374cf2",
 				"prefLabel": "UK Politics podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -1359,8 +1359,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/6b736d13-45aa-3e3c-90ae-1d2ed23d32c1",
-				"apiUrl": "http://api.ft.com/brands/6b736d13-45aa-3e3c-90ae-1d2ed23d32c1",
+				"id": "http://api.ft.com/things/3fc28ba3-6235-4acb-8609-f07110f2fdc5",
+				"apiUrl": "http://api.ft.com/brands/3fc28ba3-6235-4acb-8609-f07110f2fdc5",
 				"prefLabel": "World Weekly podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -1434,8 +1434,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/d603f656-f598-3f70-a061-02b31b132828",
-				"apiUrl": "http://api.ft.com/brands/d603f656-f598-3f70-a061-02b31b132828",
+				"id": "http://api.ft.com/things/819a315c-5070-4039-bde8-02446d3f5613",
+				"apiUrl": "http://api.ft.com/brands/819a315c-5070-4039-bde8-02446d3f5613",
 				"prefLabel": "Tech Tonic podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -1492,8 +1492,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/f27e2717-8baf-3af7-ba95-2ae26dff4ae5",
-				"apiUrl": "http://api.ft.com/brands/f27e2717-8baf-3af7-ba95-2ae26dff4ae5",
+				"id": "http://api.ft.com/things/8969c9b6-4a7f-4e3d-8471-868b1065441e",
+				"apiUrl": "http://api.ft.com/brands/8969c9b6-4a7f-4e3d-8471-868b1065441e",
 				"prefLabel": "World Tech Founders podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
@@ -1521,8 +1521,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/12f81524-9e41-31d0-9b45-e22e7b16cbe9",
-				"apiUrl": "http://api.ft.com/brands/12f81524-9e41-31d0-9b45-e22e7b16cbe9",
+				"id": "http://api.ft.com/things/0fc1a9cb-c8cf-483e-8687-70b0205002f4",
+				"apiUrl": "http://api.ft.com/brands/0fc1a9cb-c8cf-483e-8687-70b0205002f4",
 				"prefLabel": "Everything Else podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
