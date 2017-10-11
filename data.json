@@ -208,8 +208,8 @@
 		],
 		"annotations": [
 			{
-				"id": "http://api.ft.com/things/25c824cb-804a-30e6-89a9-413a160de1e2",
-				"apiUrl": "http://api.ft.com/brands/25c824cb-804a-30e6-89a9-413a160de1e2",
+				"id": "http://api.ft.com/things/f8eaed73-3148-4dcb-bba3-9fd4df2679b4",
+				"apiUrl": "http://api.ft.com/brands/f8eaed73-3148-4dcb-bba3-9fd4df2679b4",
 				"prefLabel": "Banking Weekly podcast",
 				"types": [
 					"http://www.ft.com/ontology/core/Thing",
