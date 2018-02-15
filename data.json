@@ -37,7 +37,7 @@
 					"http://www.ft.com/ontology/Topic"
 				],
 				"directType": "http://www.ft.com/ontology/Topic",
-				"predicate": "http://www.ft.com/ontology/annotation/about",
+				"predicate": "http://www.ft.com/ontology/classification/isClassifiedBy",
 				"type": "TOPIC"
 			}
 		],
